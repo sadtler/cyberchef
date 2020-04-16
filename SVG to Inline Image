@@ -1,0 +1,7 @@
+Find_/_Replace({'option':'Regex','string':'<'},'%3C',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'>'},'%3E',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'#'},'%23',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'\\n'},'',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'%3E +%3C'},'%3E%3C',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'"'},'\'',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'%3Csvg'},'data:image/svg+xml;utf8,%3Csvg',true,false,true,false)
