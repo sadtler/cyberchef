@@ -1,0 +1,3 @@
+Find_/_Replace({'option':'Regex','string':':..:..:.. \\('},':XX:XX:XX (',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'Nmap scan report for .+'},'Nmap scan report for X.X.X.X',true,false,true,false)
+Find_/_Replace({'option':'Regex','string':'\\) at .+'},') at XXXX-XX-XX XX:XX UTC',true,false,true,false)
